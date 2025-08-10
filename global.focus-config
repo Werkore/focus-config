@@ -282,9 +282,9 @@ Ctrl-Shift-P                show_commands
 ALt-S                       search_in_buffer_dropdown_mode
 Ctrl-Shift-F                search_in_project
 
-Ctrl-P                      open_file_by_name
-Ctrl-O                      navigate_to_file
-Ctrl-Shift-O                navigate_to_file_from_root
+Alt-P                      open_file_by_name
+Alt-O                      navigate_to_file
+Ctrl-Alt-O                navigate_to_file_from_root
 Ctrl-Tab                    switch_between_open_files
 
 Ctrl-G                      go_to_line
@@ -329,15 +329,15 @@ Ctrl-N                           move_down
 ALT-Ctrl-N                      move_down_fast
 {Shift}-ALT-PageDown            move_down_one_page
 
-Ctrl-B               move_left
-#ALT-Ctrl-F          move_left_by_character_type
+Ctrl-B              move_left
+Shift-Ctrl-B        move_left_by_character_type
 ALT-Ctrl-B          move_left_through_word_throttled
 {Shift}-Meta-B      move_left_through_word
 
 Ctrl-F              move_right
 #Alt-Ctrl-B         move_right_by_character_type
-ALT-Ctrl-F         move_right_through_word_throttled
-{Shift}-Meta-F     move_right_through_word
+ALT-Ctrl-F          move_right_through_word_throttled
+{Shift}-Meta-F      move_right_through_word
 
 {Shift}-Home                jump_to_line_start
 {Shift}-End                 jump_to_line_end
