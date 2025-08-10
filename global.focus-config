@@ -230,8 +230,8 @@ Ctrl-Shift-,                duplicate_editor
 Ctrl-Alt-Shift-ArrowLeft    move_editor_to_the_left
 Ctrl-Alt-Shift-ArrowRight   move_editor_to_the_right
 
-Ctrl-N                      create_new_file
-Ctrl-Shift-N                create_new_file_on_the_side
+Alt-N                      create_new_file
+Alt-Shift-N                create_new_file_on_the_side
 
 Alt-Shift-ArrowUp           create_cursor_above
 Alt-Shift-ArrowDown         create_cursor_below
