@@ -276,11 +276,11 @@ Alt-R                       toggle_regex_search
 Alt-X                       show_commands
 Ctrl-Shift-P                show_commands
 
-#Ctrl-Alt-P                  switch_to_project
+Ctrl-Alt-P                  switch_to_project
 
-#Ctrl-F                      search_in_buffer
-ALt-S                       search_in_buffer_dropdown_mode
-Ctrl-Shift-F                search_in_project
+Alt-F                       search_in_buffer
+#ALt-S                       search_in_buffer_dropdown_mode
+Alt-Shift-F                search_in_project
 
 Alt-P                      open_file_by_name
 Alt-O                      navigate_to_file
