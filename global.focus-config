@@ -310,7 +310,7 @@ Escape                      escape  # combines close_dialog and remove_additiona
 
 Ctrl-Shift-L                toggle_expand
 
-Ctrl-B                      build_panel_toggle
+Alt-B                      build_panel_toggle
 
 F11                         toggle_fullscreen
 
@@ -321,20 +321,20 @@ Shift-Tab                   focus_previous_ui_element
 
 # {Shift}- means shift is optional, the key combination will still be matched.
 # NOTE: in this editor the Shift key is hard-coded to extend selection when held
-ALT-P                   move_up
+Ctrl-P                   move_up
 ALT-Ctrl-P              move_up_fast
 ALT-PageUp              move_up_one_page
 
-ALT-N                           move_down
+Ctrl-N                           move_down
 ALT-Ctrl-N                      move_down_fast
 {Shift}-ALT-PageDown            move_down_one_page
 
-ALT-B               move_left
+Ctrl-B               move_left
 #ALT-Ctrl-F          move_left_by_character_type
 ALT-Ctrl-B          move_left_through_word_throttled
 {Shift}-Meta-B      move_left_through_word
 
-ALT-F              move_right
+Ctrl-F              move_right
 #Alt-Ctrl-B         move_right_by_character_type
 ALT-Ctrl-F         move_right_through_word_throttled
 {Shift}-Meta-F     move_right_through_word
